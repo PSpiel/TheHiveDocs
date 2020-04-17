@@ -30,12 +30,12 @@ A template contains:
  * default tags
  * title prefix (can be changed by user at case creation)
  * default TLP
- * default default
+ * default PAP
  * task list (title and description)
  * metrics
  * custom fields
  
-Except for title prefix, task list and metrics, the user can change values defined in template.
+Except for title prefix, task list and metrics, the user can change values defined in the template.
 
 ## 3. Report template management
 
